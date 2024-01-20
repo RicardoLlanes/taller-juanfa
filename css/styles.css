@@ -17,7 +17,7 @@ body {
 }/*sirve para comentar en css*/
 .container-fluid{
         display: flex;
-        justify-content: space-around;
+        justify-content:normal;
         flex-direction: row;
         align-items: center;
     }
